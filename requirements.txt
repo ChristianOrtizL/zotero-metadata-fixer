@@ -1,0 +1,2 @@
+pyzotero>=1.12.0
+requests>=2.31.0
